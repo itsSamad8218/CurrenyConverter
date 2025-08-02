@@ -2,6 +2,11 @@
 
 A sleek and interactive web application that converts currencies using real-time exchange rates.  
 
+## ⚙️ Setup  
+
+1. **DEMO/LIVE:**  
+
+   https://itssamad8218.github.io/CurrenyConverter/
 ---
 
 ## ✨ Features  
@@ -35,12 +40,7 @@ A sleek and interactive web application that converts currencies using real-time
 
 ---
 
-## ⚙️ Setup  
-
-1. **DEMO/LIVE:**  
-
-   git clone https://github.com/your-username/currency-converter.git
-   ```
+   
 2. **Open `index.html` in your browser** 🌐  
 
 ---
